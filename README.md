@@ -31,12 +31,15 @@ This Streamlit-based web application clusters learners based on various features
    cd your-repo
 
 2. Create a virtual environment (optional but recommended)
+  ```bash
    python -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
 
-3. Install dependencies
+4. Install dependencies
+  ```bash
    pip install -r requirements.txt
-4. Run the Streamlit app
+5. Run the Streamlit app
+  ```bash
    streamlit run app.py
 
 
