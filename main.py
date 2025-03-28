@@ -22,7 +22,7 @@ st.markdown(
         position: absolute;
         top: 10px;
         right: 10px;
-        background-color: #0077B5;
+        background-color: #f5f8fa;
         color: white;
         padding: 8px 12px;
         border-radius: 5px;
