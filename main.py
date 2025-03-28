@@ -153,7 +153,7 @@ if make_cluster:                                   # if ticked
 st.divider()
 
 # Step 6: Visualizations UMAP-------------------------------------------------------------------
-plot_umap = st.radio("Want to see UMAP Plot?", ["No", "Yes"])
+plot_umap = st.radio("Want to see UMAP Plot? (It usually takes long time).", ["No", "Yes"])
 st.divider()
 
 if plot_umap == "Yes":
