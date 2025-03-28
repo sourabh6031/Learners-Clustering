@@ -34,14 +34,17 @@ This Streamlit-based web application clusters learners based on various features
   ```bash
    python -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
+  ```
 
 4. Install dependencies
   ```bash
    pip install -r requirements.txt
+  ```
+
 5. Run the Streamlit app
   ```bash
    streamlit run app.py
-
+  ```
 
 ### Usage
 1. Select a dataset (default or upload your own)
