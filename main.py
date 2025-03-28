@@ -15,6 +15,28 @@ from umap import UMAP
 
 # Streamlit App Title
 st.title("Learner's Clustering App")
+st.markdown(
+    """
+    <style>
+    .linkedin-link {
+        position: absolute;
+        top: 10px;
+        right: 10px;
+        background-color: #0077B5;
+        color: white;
+        padding: 8px 12px;
+        border-radius: 5px;
+        text-decoration: none;
+        font-weight: bold;
+    }
+    .linkedin-link:hover {
+        background-color: #005582;
+    }
+    </style>
+    <a href="https://www.linkedin.com/in/sourabh-kumar-2802b0215/" target="_blank" class="linkedin-link">LinkedIn 🔗</a>
+    """,
+    unsafe_allow_html=True
+)
 
 st.divider() # for dividing line
 
