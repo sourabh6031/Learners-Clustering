@@ -1,0 +1,4 @@
+1. dataframe: it is limited in size
+2. column: column name should be exact same
+3. graph plot sample: graph is ploted on samples of dataframe, which will raise error dataframe is itself below the given sample
+4. 
