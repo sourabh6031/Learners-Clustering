@@ -12,7 +12,7 @@ This Streamlit-based web application clusters learners based on various features
   - **Elbow Method**  
   - **Davies-Bouldin Score**  
 - **Interactive Visualizations** (PCA, UMAP for 2D clustering representation)  
-- Handles large datasets (**up to 50,000 records**) efficiently  
+- Handles large datasets (**up to 2,00,000 records**) efficiently  
 
 ## 🛠️ Tech Stack  
 - **Python** (Pandas, NumPy, Scikit-Learn, UMAP, Matplotlib, Seaborn)  
