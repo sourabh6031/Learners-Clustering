@@ -40,6 +40,12 @@ st.markdown(
 
 st.divider() # for dividing line
 
+st.text("You can see the explaination video of this app using the below link.")
+st.link_button("The link.", "https://drive.google.com/file/d/1fvN-OktxBjEGscjnRGPT8oEln3aSqWMK/view?usp=sharing")
+
+
+st.divider() # for dividing line
+
 st.text("You can download the different uncleaned dataset to try.")
 st.link_button("The link.", "https://drive.google.com/drive/folders/1dXsuLV4XXNDYr1VBwVRyHce1Nvdv_gjf?usp=sharing")
 
