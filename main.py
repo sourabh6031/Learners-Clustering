@@ -47,7 +47,7 @@ st.link_button("The link.", "https://drive.google.com/file/d/1fvN-OktxBjEGscjnRG
 st.divider() # for dividing line
 
 st.text("You can download the different uncleaned dataset to try.")
-st.link_button("The link.", "https://drive.google.com/drive/folders/1dXsuLV4XXNDYr1VBwVRyHce1Nvdv_gjf?usp=sharing")
+st.link_button("The link.", "https://drive.google.com/file/d/1shobrGgrIIy9CRwdZF1UjbTruDtitIJd/view?usp=sharing")
 
 
 # Part 1: Dataset Selection  -------------------------------------------------------------------
